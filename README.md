@@ -50,7 +50,9 @@ Priority Legend:
 
 ## 4.1. Architecture
 
-The **Architecture Diagram** given above explains the high-level design of the App. Given below is a quick overview of each component._
+![ArchitectureDiagram1](https://github.com/m0nggh/TryhardPacman/blob/master/Pictures/ArchitectureDiagram1.PNG)
+
+The **Architecture Diagram** given above explains the high-level design of the App. Given below is a quick overview of each component.
 
 The 3 main components of the game consist of:
 
@@ -60,6 +62,7 @@ The 3 main components of the game consist of:
 
 Here we use a **_sequence diagram_** to show how the components interact with one another in the scenario where a user logs into the game:
 
+![ArchitectureDiagram2](https://github.com/m0nggh/TryhardPacman/blob/master/Pictures/ArchitectureDiagram2.PNG)
 
 ## 4.2. UI Component
 
@@ -111,6 +114,8 @@ We are proud to announce that we have completed our 2 main new features, the **o
 - Movement is formulated based on the vertex pacman is most recently on and the user input helps to determine changes in direction
 - Rotation of pacman is adjusted using transform.localRotation and Quaternion.Euler (which is set according to the direction pacman is facing)
 
+![PacmanMovementGraphic](https://github.com/m0nggh/TryhardPacman/blob/master/Pictures/PacmanMovementDiagram.PNG)
+
 ### 3. Different ghost AIs
 
 - Formulated ghosts movements to be based on vertex movement as well BUT they follow a certain movement pattern respectively
@@ -146,6 +151,8 @@ We are proud to announce that we have completed our 2 main new features, the **o
 
 ### 6. Difficulty Level
 
+![DifficultyLevelGraphic](https://github.com/m0nggh/TryhardPacman/blob/master/Pictures/DifficultyLevelGraphic.PNG)
+
 - 3 modes: easy, medium, difficult (for single player only)
 - Increasing difficulty for players upon completion of a level:
 	-	Shorter scatter time
@@ -178,6 +185,8 @@ Used GIMP and unity’s tilemap to create 4 different maps other than the origin
 	- (Bonus) Extra points are obtainable (cherry replacement)
 
 ### 10. Pop Quiz Panel
+
+![PopQuizPanelGraphic](https://github.com/m0nggh/TryhardPacman/blob/master/Pictures/PopQuizPanelGraphic.PNG)
 
 - Upon losing a life or completion of a level, the pop quiz panel is set active
 - PopQuizManager script is used to generate random questions from a pool of questions based on the 7 different categories provided
