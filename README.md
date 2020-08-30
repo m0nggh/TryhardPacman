@@ -1,6 +1,6 @@
 # Orbital-Tryhard Pacman
 
-**Proposed level of submission: Apollo 11**
+### Proposed level of submission: Apollo 11
 Completed by: Malcolm Ong & Lim Jun Cheng
 
 # 1. Motivation
