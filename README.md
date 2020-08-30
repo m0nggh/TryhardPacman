@@ -3,6 +3,8 @@
 ### Proposed level of submission: Apollo 11
 Completed by: Malcolm Ong & Lim Jun Cheng
 
+![Pacman Poster](https://i.imgur.com/hKiq9DZ.png)
+
 # 1. Motivation
 
 Want to **have fun and relieve stress** with your friends? Play our modified version of PacMan and **relive your childhood memories!**
