@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "659035632062",
+    "firebase_url": "https://orbital-pacman.firebaseio.com",
+    "project_id": "orbital-pacman",
+    "storage_bucket": "orbital-pacman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659035632062:android:7a70eeeccfc1e96a2809ef",
+        "android_client_info": {
+          "package_name": "com.GMLion.TheRealPacman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659035632062-odkdaha41jopfrpbp1ccknqsphpsfr1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh4P_saivfA2eB3y3I-GMmO_0fEZDqfWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659035632062-odkdaha41jopfrpbp1ccknqsphpsfr1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
